@@ -401,3 +401,86 @@ Métodos de Array: Funções internas para manipular listas de dados, como `map`
 Variáveis (`let` e `const`): Espaços na memória do programa para armazenar informações que podem ser acessadas e manipuladas posteriormente [35, 36].
 
 ---
+
+Prompts reutilizáveis 
+
+Prompt 1 — Revisão dos estudos
+
+Revise quais foram os últimos assuntos estudados e apresente todos eles em uma lista organizada por data (do mais antigo para o mais recente). Para cada assunto, forneça:
+
+Nome do tópico.
+Data ou período em que foi estudado (quando disponível).
+Um resumo breve e objetivo (2 a 4 linhas).
+Os principais conceitos aprendidos.
+Um exemplo prático relacionado ao tema.
+
+---
+
+Prompt 2 — Identificação de lacunas
+
+Analise todo o histórico de estudos e identifique quais conceitos ainda parecem incompletos ou pouco aprofundados.
+
+Para cada lacuna encontrada, informe:
+
+O assunto.
+Por que ele parece incompleto.
+Quais pré-requisitos são necessários.
+Qual seria o próximo passo recomendado.
+Uma ordem de prioridade (Alta, Média ou Baixa).
+Um exercício simples para reforçar esse conhecimento.
+
+---
+
+Prompt 3 — Plano de estudo personalizado
+
+Com base em tudo o que já estudei, monte um plano para minha próxima sessão de estudos.
+
+O plano deve conter:
+
+Uma revisão rápida dos conhecimentos mais importantes.
+O próximo assunto que faz mais sentido aprender.
+A justificativa dessa escolha.
+Os conceitos que preciso dominar antes de avançar.
+Um pequeno desafio de programação para praticar.
+Um projeto simples que utilize os conhecimentos atuais e os novos conceitos.
+Uma estimativa de tempo para cada etapa.
+
+---
+
+Prompt 4 — Quiz inteligente
+
+Crie um quiz baseado exclusivamente nos assuntos que já estudei.
+
+Regras:
+
+Gere entre 10 e 15 perguntas.
+Misture questões conceituais e práticas.
+Não revele as respostas imediatamente.
+Após eu responder, corrija cada questão explicando o motivo da resposta correta.
+Ao final, apresente uma nota, identifique meus pontos fortes e fracos e sugira quais assuntos devo revisar.
+
+---
+
+Prompt 5 — Consolidação do conhecimento
+
+Analise todo o conteúdo estudado até agora e produza um mapa de conhecimento.
+
+Organize as informações em uma estrutura hierárquica mostrando:
+
+Os assuntos estudados. Como cada assunto se conecta aos demais.Os pré-requisitos de cada tópico.Os conceitos mais importantes. As habilidades que já desenvolvi. O que ainda preciso aprender para alcançar um nível intermediário. Três sugestões de pequenos projetos que utilizam os conhecimentos adquiridos até o momento.
+
+----
+
+Esses cinco prompts formam um bom fluxo de aprendizado através da revisão do que foi estudado, identifica lacunas, define o próximo passo, testa seu conhecimento atual e consolida tudo em uma visão geral para um aprendizado de forma consistente.
+
+- Possíveis prompts especializados que ainda podem ser usados futuramente e que até agora são ideias:
+
+1.Revisor de código: analisa um código, aponta erros, melhorias, boas práticas e oportunidades de refatoração.
+
+2.Gerador de exercícios progressivos: cria exercícios do nível atual até um nível um pouco mais difícil, aumentando a complexidade gradualmente.
+
+3.Explicador didático: explica qualquer conceito em níveis (iniciante, intermediário, avançado), usando analogias, exemplos e desafios.
+
+4.Simulador de entrevista técnica: faz perguntas de programação, corrige suas respostas e fornece feedback detalhado.
+
+5.Mentor de projetos: sugere projetos compatíveis com seu nível, divididos em etapas e com metas claras.
