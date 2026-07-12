@@ -353,3 +353,51 @@ Nomes Significativos: Dê nomes claros a classes e variáveis (ex: `.btn-enviar`
 Comentários: Use comentários para explicar blocos complexos de código, ajudando na manutenção futura [30, 52, 53].
 
 ---
+
+Glossário 
+
+Este glossário apresenta os conceitos fundamentais para o desenvolvimento Front-end, organizados por tecnologia, conforme as fontes consultadas.
+
+### 1. Conceitos Gerais
+Front-end: A parte visual e interativa de um site com a qual o usuário lida diretamente no navegador [1].
+DOM (Document Object Model): Representação estruturada da página HTML que o JavaScript utiliza para acessar e manipular elementos e conteúdos em tempo real [2, 3].
+
+Hospedagem e Domínio: O domínio é o endereço do site (ex: google.com), e a hospedagem é o servidor onde os arquivos do site ficam guardados para serem acessados via internet [4, 5].
+
+### 2. HTML (Estrutura)
+
+Atributos: Informações adicionais colocadas dentro de uma tag para modificar seu comportamento ou identificar o elemento (ex: `href`, `src`, `id`, `class`) [6, 7].
+
+HTML Semântico: Uso de tags que descrevem o significado do conteúdo (ex: `<header>`, `<main>`, `<footer>`), facilitando a acessibilidade e o SEO [8, 9].
+
+Metadados: Informações sobre a página que ficam dentro da tag `<head>` e não aparecem visualmente, mas são lidas por navegadores e motores de busca (ex: `<title>`, `<meta>`) [10, 11].
+
+Tags (Elementos): Comandos de marcação que definem a estrutura da página, como títulos (`<h1>`), parágrafos (`<p>`), imagens (`<img>`) e links (`<a>`) [12-14].
+
+### 3. CSS (Estilização)
+
+Box Model (Modelo de Caixa): Conceito onde cada elemento é visto como uma caixa composta por conteúdo, preenchimento interno (padding), borda (border) e margem externa (margin) [15, 16].
+
+Flexbox: Técnica de layout unidimensional que permite alinhar e distribuir elementos filhos dentro de um container de forma flexível [17, 18].
+
+Propriedades e Valores: O CSS funciona através de declarações onde se define uma característica (propriedade, ex: `color`) e o estilo desejado (valor, ex: `red`) [19, 20].
+
+Seletores: Formas de indicar quais elementos HTML receberão o estilo. Podem ser por tag (`p`), classe (`.minha-classe`) ou ID (`#meu-id`) [21, 22].
+
+Unidades Relativas (rem/em): Medidas que se adaptam ao tamanho da tela ou configurações do usuário, ao contrário do pixel (px), que é fixo [23].
+
+### 4. JavaScript (Comportamento)
+
+Async/Await e Promises: Recursos para lidar com operações assíncronas (que levam tempo para completar, como buscar dados em um servidor) sem travar a execução da página [24, 25].
+
+Desestruturação: Sintaxe que permite extrair dados de arrays ou objetos em variáveis distintas de forma simplificada [26, 27].
+
+Eventos: Ações que ocorrem no navegador (como um clique ou digitação) que o JavaScript pode "escutar" e reagir através de funções (ex: `addEventListener`, `onclick`) [28, 29].
+
+Funções: Blocos de código reutilizáveis que executam uma tarefa específica quando chamados [30, 31].
+
+Métodos de Array: Funções internas para manipular listas de dados, como `map` (transformar), `filter` (filtrar) e `reduce` (reduzir a um valor único) [32-34].
+
+Variáveis (`let` e `const`): Espaços na memória do programa para armazenar informações que podem ser acessadas e manipuladas posteriormente [35, 36].
+
+---
